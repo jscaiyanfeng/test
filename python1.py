@@ -1,1 +1,6 @@
- print("hello world")
+print ("hello world")
+x = "a"
+y = "b"
+print x
+print y
+print x,y
